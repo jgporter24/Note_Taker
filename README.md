@@ -18,11 +18,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Usage
 
-The following images show functionaity:
+The following images and video show functionaity:
 
 ![Home page to load notes on next page.](assets/images/index.png)
 
 ![Notes page that allows you to input a title and notes.](assets/images/Notes.png)
+
+![Video of heroku site.](assets/images/NoteTaker.gif)
 
 ## Credits
 
